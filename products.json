@@ -1,0 +1,4 @@
+[
+  { "id": "vip", "name": "VIP role", "price": "15", "currency": "USD", "role_id": "123456789012345678", "deliver": "Welcome to VIP! Check the #vip channel." },
+  { "id": "guide", "name": "Trading guide (PDF)", "price": "9.90", "currency": "USD", "deliver": "Download: https://example.com/files/guide.pdf" }
+]
